@@ -3,7 +3,7 @@
 ----------------------------
 ## Day 1
 Started Lesson 1 on Shell Workshop
-![day](day1.png)
+![day](../images/day1.png)
 ---------------------------
 ## Day 2
 Completed the Shell workshop 
