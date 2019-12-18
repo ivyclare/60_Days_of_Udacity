@@ -4,10 +4,13 @@
 ## Day 1
 Started Lesson 1 on Shell Workshop
 ![day](../images/day1.png)
+
 ---------------------------
+
 ## Day 2
 Completed the Shell workshop 
-![day](day2.png)
+![day](../images/day2.png)
+
 **What I learnt**
 Downloding files with curl
 Removing files with rmdir, rm
