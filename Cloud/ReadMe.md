@@ -2,19 +2,25 @@
 
 ----------------------------
 ## Day 1
+
 Started Lesson 1 on Shell Workshop
+
 ![day](../images/day1.png)
 
 ---------------------------
 
 ## Day 2
+
 Completed the Shell workshop 
+
 ![day](../images/day2.png)
 
 **What I learnt**
-Downloding files with curl
-Removing files with rmdir, rm
-Viewing files with cat and less
-Started pushing my #60_days_udacity updates to a git repo
+
+- Downloding files with curl
+- Removing files with rmdir, rm
+- Viewing files with cat and less
+- Started pushing my #60_days_udacity updates to a git repo https://github.com/ivyclare/60_Days_of_Udacity/blob/master/Cloud/ReadMe.md
+
 Encouraging my friends from the previous nanodegree 
 
