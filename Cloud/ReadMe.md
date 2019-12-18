@@ -7,6 +7,9 @@ Started Lesson 1 on Shell Workshop
 
 ![day](../images/day1.png)
 
+**What I learnt**
+Learned the basics of organizing directories and navigating files.
+
 ---------------------------
 
 ## Day 2
