@@ -35,6 +35,8 @@ D3:
 1) Completed Lesson 2 and 3 
 2) Worked on Project 2 of DLND
 
+![day](../images/day3.png)
+
 **What I learned**
 - An easy way to understand version control is thinking about it as "control version" i.e a software that helps you to control different versions of something
 - Reconfigured my terminal for git to work
