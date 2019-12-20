@@ -54,7 +54,7 @@ D4:
 1) Completed and Submitted Project 2 of DLND
 2) Started Lesson 5 - Review a Repo's History
 
-![day](../images/day3.png)
+![day4](../images/day4.png)
 
 **What I learned**
 - Today I spent more time working on the Project **Dog Breed Classifcaiton**. I learned about using ResNet with Transfer Learning, trained my network and tested the model on the test set. As you can see in the image, when the model is given an image, it detects if the image is a dog or human or none. If it's a dog, it tells us what Dog Breed the dog is and if it detects a human face, it tells us what dog breed the human looks like.
