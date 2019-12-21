@@ -31,7 +31,6 @@ Encouraging my friends from the previous nanodegree
 
 ## Day 3
 
-D3:
 1) Completed Lesson 2 and 3 
 2) Worked on Project 2 of DLND
 
@@ -50,7 +49,6 @@ Encouraging:
 
 ## Day 4
 
-D4:
 1) Completed and Submitted Project 2 of DLND
 2) Started Lesson 5 - Review a Repo's History
 
