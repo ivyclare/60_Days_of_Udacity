@@ -59,3 +59,15 @@ Encouraging:
 
 - Also started learning about `git log` and `git show`
 
+--------------------------------------
+
+## Day 5
+1) Completed Lesson 5 and 6 - (Review a Repo's History and Add Commits to a Repo)
+
+**What I learned**
+- I learnt how display a repo's history using `git log` and `git show`. Also learned about flags like `git log --oneline`, `git log --stat`, `git log -p`. Now, I can see what was stored in a commit, who stored it, when it was stored and much more. Using 
+
+- From Lesson 6: 
+I learned to use git add to stage content and used git commit to commit changes the repository. Also, how to write a good commit message and how to use git diff to recall changes that haven't been committed yet. Finally, learned how to use git ignore to tell git what files it should not track.
+- **Note To Self:** Start commit messages with *"This commit will ..."*
+- Also started making notes today
