@@ -62,7 +62,9 @@ Encouraging:
 --------------------------------------
 
 ## Day 5
-1) Completed Lesson 5 and 6 - (Review a Repo's History and Add Commits to a Repo)
+Completed Lesson 5 and 6 - (Review a Repo's History and Add Commits to a Repo)
+
+![day4](../images/day5.png)
 
 **What I learned**
 - I learnt how display a repo's history using `git log` and `git show`. Also learned about flags like `git log --oneline`, `git log --stat`, `git log -p`. Now, I can see what was stored in a commit, who stored it, when it was stored and much more. Using 
