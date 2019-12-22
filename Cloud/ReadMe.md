@@ -73,3 +73,15 @@ Completed Lesson 5 and 6 - (Review a Repo's History and Add Commits to a Repo)
 I learned to use git add to stage content and used git commit to commit changes the repository. Also, how to write a good commit message and how to use git diff to recall changes that haven't been committed yet. Finally, learned how to use git ignore to tell git what files it should not track.
 - **Note To Self:** Start commit messages with *"This commit will ..."*
 - Also started making notes today
+
+--------------------------------------
+
+## Day 6
+Completed videos on DL for Skin Cancer Detection , Jobs in DL and Optimizing my Github Profile
+
+![day4](../images/day6.png)
+
+**What I learnt**
+- ROC curves stand for **Receiver Operating Characteristic** is used to measure the performs of a classification task. It can also be called Specificity-Sensitivity curve. It works by plotting the True Positives against the True Negatives and find the area of the curve. 
+
+- Amongst other things, contributing consistently to github and making sure the github graph is always green is very important cause this is the first thing that recruiters look at.
