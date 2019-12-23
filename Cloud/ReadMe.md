@@ -89,7 +89,7 @@ Completed videos on DL for Skin Cancer Detection , Jobs in DL and Optimizing my 
 ## Day 7
 Completed Lesson 7 (Tagging, Branching and Merging)
 
-![day](../images/day6.png)
+![day](../images/day7.png)
 
 **What I learnt**
 - `git tag` which is used to add a tag to a commit
