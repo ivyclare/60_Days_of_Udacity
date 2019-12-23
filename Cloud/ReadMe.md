@@ -1,5 +1,4 @@
 # 60 Days of Udacity (Bertellsman Cloud)
-
 ----------------------------
 ## Day 1
 
@@ -85,3 +84,15 @@ Completed videos on DL for Skin Cancer Detection , Jobs in DL and Optimizing my 
 - ROC curves stand for **Receiver Operating Characteristic** is used to measure the performs of a classification task. It can also be called Specificity-Sensitivity curve. It works by plotting the True Positives against the True Negatives and find the area of the curve. 
 
 - Amongst other things, contributing consistently to github and making sure the github graph is always green is very important cause this is the first thing that recruiters look at.
+
+--------------------------------------
+## Day 7
+Completed Lesson 7 (Tagging, Branching and Merging)
+
+![day](../images/day6.png)
+
+**What I learnt**
+- `git tag` which is used to add a tag to a commit
+- `git branch` used to create branches. Also, learned to make changes on different branches in the demo project
+- `git merge` where I merged the changes in the different branches
+- Finally learned how to handle merge conflicts
