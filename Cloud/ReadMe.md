@@ -96,3 +96,14 @@ Completed Lesson 7 (Tagging, Branching and Merging)
 - `git branch` used to create branches. Also, learned to make changes on different branches in the demo project
 - `git merge` where I merged the changes in the different branches
 - Finally learned how to handle merge conflicts
+
+-------------------------------------------
+## Day 8
+D8:
+Completed RNN and LSTM lessons in DLND
+
+![day](../images/day9.png)
+
+**What I learned**
+I revised the implementation of Recurrent Neural Networks and Long Short Term Memory.  Went over the implementation of a model that generates new text
+
