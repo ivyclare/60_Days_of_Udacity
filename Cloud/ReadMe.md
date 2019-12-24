@@ -102,7 +102,7 @@ Completed Lesson 7 (Tagging, Branching and Merging)
 D8:
 Completed RNN and LSTM lessons in DLND
 
-![day](../images/day9.png)
+![day](../images/day8.png)
 
 **What I learned**
 I revised the implementation of Recurrent Neural Networks and Long Short Term Memory.  Went over the implementation of a model that generates new text
