@@ -107,3 +107,12 @@ Completed RNN and LSTM lessons in DLND
 **What I learned**
 I revised the implementation of Recurrent Neural Networks and Long Short Term Memory.  Went over the implementation of a model that generates new text
 
+---------------------------------------------
+## Day 9
+D9:
+Completed Hyperparameters in DLND
+
+![day](../images/day.png)
+
+**What I learned**
+
