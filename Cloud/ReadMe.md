@@ -115,4 +115,27 @@ Completed Hyperparameters in DLND
 ![day](../images/day.png)
 
 **What I learned**
+What I learned
+Learnt about different hyperparameters that are used in defining and training deep learning models. Hyperparameters like learning rate, minibatch size, number interations and RNN hyperparameters
+
+---------------------------------------------
+## Day 10
+D10:
+Revisited LSTM
+
+![day](../images/day.png)
+
+**What I learned**
+I fell sick , so couldn't do much. I just revisited the concepts of LSTM
+
+---------------------------------------------
+## Day 11
+D11:
+Started Watching Videos for Embeddings and Word2Vec 
+
+![day](../images/day.png)
+
+**What I learned**
+Learning about using embeddings in natural language processing. 
+
 
