@@ -139,3 +139,12 @@ Started Watching Videos for Embeddings and Word2Vec
 Learning about using embeddings in natural language processing. 
 
 
+---------------------------------------------
+## Day 12
+D12:
+Today I went through this Embeddings tutorial that was recommended  in the DLND nanaodegree.
+
+![day](../images/day.png)
+**Link**
+http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/ 
+
