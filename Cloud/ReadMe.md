@@ -153,7 +153,7 @@ http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 D13:
 Completed lessons on Embeddings and Word2Vec
 
-![day](../images/day.png)
+![day](../images/day13.png)
 
 **What I learned**
 Implemented embeddings with Word2Vec for neural networks. 
