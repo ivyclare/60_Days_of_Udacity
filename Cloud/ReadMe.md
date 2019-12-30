@@ -148,3 +148,12 @@ Today I went through this Embeddings tutorial that was recommended  in the DLND 
 **Link**
 http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/ 
 
+---------------------------------------------
+## Day 13
+D13:
+Completed lessons on Embeddings and Word2Vec
+
+![day](../images/day.png)
+
+**What I learned**
+Implemented embeddings with Word2Vec for neural networks. 
