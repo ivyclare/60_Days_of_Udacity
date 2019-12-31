@@ -157,3 +157,8 @@ Completed lessons on Embeddings and Word2Vec
 
 **What I learned**
 Implemented embeddings with Word2Vec for neural networks. 
+
+---------------------------------------------
+## Day 14
+D14:
+Started working on the third project for DLND - Generative TV Scripts
